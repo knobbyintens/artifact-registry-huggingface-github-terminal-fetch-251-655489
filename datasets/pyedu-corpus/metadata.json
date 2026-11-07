@@ -9,5 +9,8 @@
   ],
   "tokens": 210000000,
   "license": "odc-by",
-  "license_name": "Open Data Commons Attribution License 1.0"
+  "license_name": "Open Data Commons Attribution License 1.0",
+  "derived_artifacts": [
+    "pyedu-instruct-120k"
+  ]
 }
